@@ -1,16 +1,14 @@
-### Hi there 👋
+### Salut tout le monde ! 👋
 
-<!--
-**250K/250K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Tεkαshi, un passionné cybersécurité et je suis ravi de vous accueillir sur mon profil GitHub.
 
-Here are some ideas to get you started:
+🔭 Actuellement, je travaille pas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 En ce moment, j'apprends pour améliorer mes compétences.
+
+💬 N'hésitez pas à me poser des questions sur mon discord 9lww 
+
+⚡ Fun fact : 
+
+
+
