@@ -1,0 +1,7 @@
+version: 2
+
+updates:
+  - package-ecosystem: "all" # Mettez ici l'écosystème du package à mettre à jour (par exemple, npm, pip, etc.)
+    directory: "/" # Emplacement des fichiers de manifeste des packages
+    schedule:
+      interval: "weekly" # Planification des mises à jour (par exemple, quotidiennement, hebdomadairement, etc.)
